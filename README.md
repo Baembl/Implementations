@@ -1,3 +1,3 @@
 # Implementations
 
-Implemented Decision Trees from scratch in Python using dataset from kaggle and code as well. 
+Implemented Decision Trees, Regression models and Neural Networks (including CNN and RNN) in Python. Each model implementation has its respective folders and their Readme file as well 
