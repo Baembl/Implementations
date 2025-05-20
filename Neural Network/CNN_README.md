@@ -34,7 +34,7 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 
 ## Files
 
-- `notebook.ipynb`: Jupyter Notebook containing the code for data loading, preprocessing, model building, training, and evaluation.
+- `ConvolutionalNeuralNetwork.ipynb`: Jupyter Notebook containing the code for data loading, preprocessing, model building, training, and evaluation.
 
 ## Notes
 
