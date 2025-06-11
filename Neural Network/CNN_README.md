@@ -30,7 +30,7 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 
 4. **Compile and Train**
     - Compiles the model with categorical crossentropy loss and Adam optimizer.
-    - Trains the model for 10 epochs.
+    - Trains the model for 30 epochs.
 
 ## Files
 
